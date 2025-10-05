@@ -3,9 +3,6 @@
        alt="Capa do eBook O Senhor dos Layouts" width="600px">
 </p>
 
-<h1 align="center">🧙‍♂️ O Senhor dos Layouts</h1>
-<h3 align="center">Dominando o CSS e os Segredos do Estilo</h3>
-
 
 <h1 align="center">🧙‍♂️ O Senhor dos Layouts</h1>
 <h3 align="center">Dominando o CSS e os Segredos do Estilo</h3>
