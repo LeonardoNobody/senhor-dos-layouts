@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/capa-ebook.jpg](https://github.com/LeonardoNobody/senhor-dos-layouts/blob/main/ChatGPT%20Image%205%20de%20out.%20de%202025%2C%2016_17_40.png)" alt="Capa do eBook O Senhor dos Layouts" width="600px">
+  <img [src="images/capa-ebook.jpg](https://github.com/LeonardoNobody/senhor-dos-layouts/blob/main/ChatGPT%20Image%205%20de%20out.%20de%202025%2C%2016_17_40.png)](https://github.com/LeonardoNobody/senhor-dos-layouts/blob/main/ChatGPT%20Image%205%20de%20out.%20de%202025%2C%2016_17_40.png)" alt="Capa do eBook O Senhor dos Layouts" width="600px">
 </p>
 
 <h1 align="center">🧙‍♂️ O Senhor dos Layouts</h1>
